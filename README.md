@@ -7,9 +7,9 @@ currently diving deep into backend development and APIs.
 
 ## Tech I'm Working With
 
-🌱 Ruby on Rails  
-🐘 PHP (Nette)  
-🐍 Python  
+🌱 **Ruby on Rails**
+🐘 **PHP (Nette)** 
+🐍 **Python**
 
 ## Goals
 

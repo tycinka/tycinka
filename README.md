@@ -2,16 +2,16 @@
 
 ## About Me
 
-Hi! I'm a junior developer and a student of Applied Mathematics. I'm currently exploring backend development, especially APIs, and I enjoy learning how things work under the hood. My background in math helps me approach coding with a logical mindset, and I'm always trying to improve and pick up new skills.
+Junior developer curious about how things work under the hood,
+currently diving deep into backend development and APIs.
 
-## Technologies & Tools
+## Tech I'm Working With
 
-🌱 **Ruby on Rails** – Currently learning how to build web apps and APIs.  
-🐘 **PHP (Nette Framework)** – Some experience creating simple web projects.  
-🐍 **Python** – Familiar with scripting and basic data analysis.
+🌱 Ruby on Rails  
+🐘 PHP (Nette)  
+🐍 Python  
 
-## Learning & Goals
+## Goals
 
-I'm diving into Ruby on Rails and sharpening my backend skills through small projects. My goal is to grow fast and take on more complex challenges as I go.
-
-Thanks for stopping by! 😊
+Growing fast. Building real things.  
+Leveling up step by step 🚀

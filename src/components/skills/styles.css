@@ -1,0 +1,30 @@
+section div h2{
+    font-family: var(--quicksand);
+    color: var(--charcoal);
+    font-weight: 400;
+    font-size: 4em;
+    line-height: 175%;
+}
+
+.section-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 48px;
+    padding: 56px 24px;
+  }
+
+.skill-wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+@media (max-width: 768px){
+    section div h2{
+        font-family: var(--quicksand);
+        color: var(--charcoal);
+        font-weight: 400;
+        font-size: 3em;
+        line-height: 135%;
+    }   
+}

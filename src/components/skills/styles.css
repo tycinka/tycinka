@@ -19,6 +19,32 @@ section div h2{
     gap: 16px;
 }
 
+.cert-link {
+    color: inherit;
+    text-decoration: underline;
+}
+
+.cert-link:visited {
+    color: inherit;
+}
+
+.cert-link:hover {
+    color: inherit;
+}
+
+.cert-link:active {
+    color: inherit;
+}
+
+.skill-wrapper ul {
+    margin: 0;
+    padding-left: 20px;
+}
+
+.skill-wrapper li {
+    margin-bottom: 6px;
+}
+
 @media (max-width: 768px){
     section div h2{
         font-family: var(--quicksand);

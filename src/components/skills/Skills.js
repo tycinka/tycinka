@@ -21,29 +21,32 @@ const Skills = () => {
                     icon={db}
                     theme="white"
                 />
-                <SkillBox title="Certifications"
-                          content={
-                              <ul>
-                                  <li>
-                                      <a
-                                          href="https://coursera.org/share/88aea709c7799a74289ea206a5d301f3"
-                                          target="_blank"
-                                          rel="noopener noreferrer"
-                                      >
-                                          IBM Data Science Professional Certificate
-                                      </a>
-                                  </li>
-                                  <li>
-                                      <a
-                                          href="https://coursera.org/share/1b991e9a6fa0c73c06fbc61b0d864c01"
-                                          target="_blank"
-                                          rel="noopener noreferrer"
-                                      >
-                                          IBM Data Analyst Professional Certificate
-                                      </a>
-                                  </li>
-                              </ul>
-                          }
+                <SkillBox
+                    title="Certifications"
+                    content={
+                        <ul>
+                            <li>
+                                <a
+                                    className="cert-link"
+                                    href="https://coursera.org/share/88aea709c7799a74289ea206a5d301f3"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    IBM Data Science Professional Certificate
+                                </a>
+                            </li>
+                            <li>
+                                <a
+                                    className="cert-link"
+                                    href="https://coursera.org/share/1b991e9a6fa0c73c06fbc61b0d864c01"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    IBM Data Analyst Professional Certificate
+                                </a>
+                            </li>
+                        </ul>
+                    }
                     icon={power}
                     theme="white"
                 />

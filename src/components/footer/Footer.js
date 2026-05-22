@@ -19,7 +19,7 @@ const Footer = () => {
                 <p>©2025 Alena Mikešová</p>
                 <div className="social-wrapper">
                     <a href="tel:+420603567092">  <img src={phone} alt="phone" />Phone</a>
-                    <a href="mailto:alenkamikesova@icloud.com?subject=Hello&body=I wanted to reach out..."><img src={email} alt="email" /> Email</a>
+                    <a href="mailto:mikesova@ik.me?subject=Hello&body=I wanted to reach out..."><img src={email} alt="email" /> Email</a>
                 </div>
                 <p>©2025 Alena Mikešová</p>
             </div>

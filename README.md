@@ -10,8 +10,3 @@ currently diving deep into backend development and APIs.
 🌱 **Ruby on Rails**  
 🐘 **PHP (Nette)**  
 🐍 **Python**
-
-## Goals
-
-Growing fast. Building real things.  
-Leveling up step by step 🚀

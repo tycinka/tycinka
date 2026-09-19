@@ -8,7 +8,7 @@
 
 ### A bit about me:
 
-Junior developer and Statistical Data Science student, 
+I'm a junior developer and Statistical Data Science student, 
 curious about how things work under the hood. Currently diving into backend 
 development, APIs, and working with data.
 

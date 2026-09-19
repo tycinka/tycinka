@@ -6,13 +6,13 @@
 
 </div>
 
-### A bit about me
+### A bit about me:
 
 Junior developer and Statistical Data Science student, 
 curious about how things work under the hood. Currently diving into backend 
 development, APIs, and working with data.
 
-### Tech I'm Working With
+### Tech I'm Working With:
 
 🌱 **Ruby on Rails**   
 🐍 **Python**  

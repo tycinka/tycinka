@@ -1,4 +1,12 @@
-# Nice to have you here  ![cat_gif](src/assets/cat-cat-on-computer-sd.gif)
+<div align="center">
+
+![cat_gif](src/assets/cat-cat-on-computer-sd.gif)
+
+# Nice to have you here...
+
+</div>
+
+---
 
 ### A bit about me
 

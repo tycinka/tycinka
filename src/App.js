@@ -4,6 +4,7 @@ import About from './components/about/About';
 import Skills from './components/skills/Skills';
 import Card from "./components/card/Card";
 import Main from './layout/main';
+import boliga from './assets/boliga.jpg';
 
 function App() {
   return (
@@ -21,8 +22,12 @@ function App() {
           <Skills />
         </section>
 
-        <section id="works">
-          <Card link="https://www.boliga.cz/" title="Boliga.cz" year="2024" content="API built with Ruby on Rails, leveraging PostgreSQL for structured data management and advanced querying. Features include RESTful API design, authentication, background job handling, and modular architecture optimized for scalability, maintainability, and secure data flow." />
+        <section id="works" className="section-wrapper">
+          <div className="works-heading">
+            <h2>Things I've Built</h2>
+          </div>
+          <img className="works-image" src={boliga} alt="Boliga.cz homepage screenshot" />
+          <Card link="https://www.boliga.cz/" title="Boliga.cz" year="2026" content="A REST API for a team-based badminton league: it handles seasons, groups, matches, rankings, and payments. It runs on Ruby on Rails and PostgreSQL, with Sidekiq for monthly automation, JWT for auth, and Postgres advisory locks to keep concurrent jobs safe." />
         </section>
       </main>
     </Main>

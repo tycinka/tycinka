@@ -59,6 +59,11 @@ footer{
 }
 
 @media (max-width: 768px) {
+    .footer-wrapper{
+        align-items: center;
+        text-align: center;
+    }
+
     .social-container{
         display: flex;
         flex-direction: column;

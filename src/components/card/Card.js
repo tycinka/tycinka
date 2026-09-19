@@ -10,7 +10,7 @@ const Card = ({ title, year, content, link }) => {
                     <h3>{title} <span> - {year}</span></h3>
                     <p>{content}</p>
                 </div>
-                <a href={link} target="_blank" rel="noopener noreferrer"><Button>Check It Out!<img className="icon" src={arrow} alt="icon"/></Button></a>
+                <a href={link} target="_blank" rel="noopener noreferrer"><Button>Check It Out!<img className="icon" src={arrow} alt=""/></Button></a>
             </div>
         </div>
     );

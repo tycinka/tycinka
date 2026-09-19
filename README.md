@@ -1,4 +1,4 @@
-# Nice to have you here  ![cat_gif](cat-cat-on-computer.gif)
+# Nice to have you here  ![cat_gif](assets/cat-cat-on-computer.gif)
 
 ### A bit about me
 

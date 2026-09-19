@@ -6,8 +6,6 @@
 
 </div>
 
----
-
 ### A bit about me
 
 Junior developer and Statistical Data Science student, 

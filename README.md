@@ -1,17 +1,14 @@
-# Hello, world! 👋
+# Nice to have you here  ![cat_gif](cat-cat-on-computer.gif)
 
-## About Me
+### A bit about me
 
-Junior developer curious about how things work under the hood,
-currently diving deep into backend development and APIs.
+Junior developer and Statistical Data Science student, 
+curious about how things work under the hood. Currently diving into backend 
+development, APIs, and working with data.
 
-## Tech I'm Working With
+### Tech I'm Working With
 
-🌱 **Ruby on Rails**  
-🐘 **PHP (Nette)**  
-🐍 **Python**
-
-## Goals
-
-Growing fast. Building real things.  
-Leveling up step by step 🚀
+🌱 **Ruby on Rails**   
+🐍 **Python**  
+📊 **PostgreSQL** & SQL fundamentals  
+🎭 E2E testing with **Playwright**

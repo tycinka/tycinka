@@ -30,6 +30,10 @@
 }
 
 @media (max-width: 768px) {
+    .home-container {
+        height: 60vh;
+    }
+
     .home-wrapper h1 {
         font-family: var(--quicksand);
         font-weight: 400;

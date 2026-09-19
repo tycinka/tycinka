@@ -13,10 +13,14 @@ section div h2{
     padding: 56px 24px;
   }
 
-.skill-wrapper{
+.skills-bento {
+    grid-auto-rows: 1fr;
+    gap: 24px;
+}
+
+.skills-heading {
     display: flex;
-    flex-direction: column;
-    gap: 16px;
+    align-items: center;
 }
 
 .cert-link {
@@ -36,12 +40,12 @@ section div h2{
     color: inherit;
 }
 
-.skill-wrapper ul {
+.skills-bento ul {
     margin: 0;
     padding-left: 20px;
 }
 
-.skill-wrapper li {
+.skills-bento li {
     margin-bottom: 6px;
 }
 
@@ -52,5 +56,13 @@ section div h2{
         font-weight: 400;
         font-size: 3em;
         line-height: 135%;
-    }   
+    }
+
+    .skills-bento > *:nth-child(3) {
+        order: 4;
+    }
+
+    .skills-bento > *:nth-child(4) {
+        order: 3;
+    }
 }

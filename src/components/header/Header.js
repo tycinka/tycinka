@@ -36,7 +36,7 @@ const Header = () => {
 
   return (
     <header>
-      <h1>Mikes</h1>
+      <h1>Alena Mikešová</h1>
       <div className="burger" onClick={toggleMenu}>
         <span />
         <span />
